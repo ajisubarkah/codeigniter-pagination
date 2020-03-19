@@ -1,0 +1,22 @@
+{
+	"name": "subarkah/pagination",
+	"description": "CodeIgniter pagination server-side",
+	"keywords": [
+		"pagination",
+		"codeigniter",
+		"ajax",
+		"server-side"
+	],
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Aji Subarkah",
+			"email": "aji@subarkah.id"
+		}
+	],
+	"autoload": {
+		"psr-4": {
+			"Subarkah\\Pagination\\": "src/"
+		}
+	}
+}
